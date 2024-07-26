@@ -20,7 +20,7 @@ main:
 
 
   - title: "CV"
-    url: //files/cv.pdf/
+    url: 'https://cfeng-git.github.io/files/CV.pdf'
     
   # - title: "Guide"
   #   url: /markdown/
